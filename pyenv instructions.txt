@@ -1,0 +1,17 @@
+==> Instructions when you open visual studio first time in folder
+
+pyenv local 3.12.3		to activate the version in that folder u are using in VS
+
+pyenv versions			to check the local version used out of all other available
+python --verssion 		to check the global version !! NOT the local version
+
+python -m venv NameTest		to create the envirenomment with the name "NameTest"
+
+===>
+
+HaithamPro\Scripts\activate
+
+from langchain.docstore.document import Document
+
+saois@boom.ma
+baloonlava
